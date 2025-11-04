@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 async def root():
-    return {"message": "Hello GitOps! O pipeline funcionou perfeitamente."}
+    return {"message": "Hello GitOps! Acionando o pipeline corrigido!"}
