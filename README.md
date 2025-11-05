@@ -601,6 +601,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Se este projeto foi útil para você, considere dar uma ⭐!**
 
-Feito com ❤️ e ☕ por [Thiago Cardoso Davi](https://github.com/seu-usuario)
+Feito com ❤️ e ☕ por [Thiago Cardoso Davi](https://github.com/Thiago-code-lab)
 
 </div>
