@@ -184,8 +184,7 @@ compass-python-api-ci-cd/
 ```
 compass-kubernetes-deployments/
 ├── deployment.yaml           # 🎯 Definição dos Pods
-├── service.yaml              # 🌐 Exposição da aplicação
-└── README.md
+└──service.yaml              # 🌐 Exposição da aplicação
 ```
 
 **Responsabilidades:**
@@ -252,7 +251,7 @@ Adicione os seguintes secrets:
 
 | Secret | Descrição | Como Obter |
 |--------|-----------|------------|
-| `DOCKER_USERNAME` | Seu usuário do Docker Hub | Seu username do Docker Hub |
+| `DOCKER_USERNAME` | Seu usuário do Docker Hub |
 | `DOCKER_PASSWORD` | Token de acesso do Docker Hub | Account Settings → Security → New Access Token |
 | `SSH_PRIVATE_KEY` | Chave SSH para atualizar manifestos | `ssh-keygen -t ed25519 -C "github-actions"` |
 <img width="1901" height="936" alt="Image" src="https://github.com/user-attachments/assets/635b7b20-56d7-4e3b-8e02-f9347d45fc8f" />
@@ -346,7 +345,7 @@ A imagem `compass-python-api` foi enviada ao Docker Hub com a tag correspondente
 <img width="1876" height="797" alt="Image" src="https://github.com/user-attachments/assets/ab61bffa-cc21-4e0b-aee6-46e02918f046" />
 
 **Detalhes da imagem:**
-- **Repository:** `seu-usuario/compass-python-api`
+- **Repository:** `thiagodavi2006/compass-python-api`
 - **Tag:** `d6c7d3b` (SHA do commit)
 - **Size:** ~50MB (otimizada)
 - **Última atualização:** Timestamp do push
@@ -593,7 +592,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 - **Compass UOL** pelo programa de bolsas e oportunidade de aprendizado
 - Comunidade **Cloud Native** pelas ferramentas open-source incríveis
-- Todos os contribuidores que ajudaram a melhorar este projeto
 
 ---
 
