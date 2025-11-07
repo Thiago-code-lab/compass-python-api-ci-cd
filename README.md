@@ -570,35 +570,68 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ---
 
+---
+
+<div align="center">
+
 ## 👨‍💻 Autor
 
-**Thiago Cardoso Davi**
+<img src="https://media.licdn.com/dms/image/v2/D5603AQFzk_EbdGFUXg/profile-displayphoto-crop_800_800/B56ZpRDXSuG0AI-/0/1762296429573?e=1764201600&v=beta&t=9jsi4QvC-f9I9m6of2nCXfjJDFqdQBheodSMspWKMNM" width="150" style="border-radius: 50%; border: 4px solid #58A6FF;" alt="Thiago Cardoso Davi"/>
 
-- 📧 Email: analyticsdev.thiago@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/analyticsthiagocardoso
-- 🐙 GitHub: https://github.com/Thiago-code-lab
+### **Thiago Cardoso Davi**
 
-> Desenvolvido como parte do **Programa de Bolsas DevSecOps - Compass UOL** 🧭
+[![Email](https://img.shields.io/badge/Email-analyticsdev.thiago%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:analyticsdev.thiago@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago%20Cardoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analyticsthiagocardoso)
+[![GitHub](https://img.shields.io/badge/GitHub-Thiago--code--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiago-code-lab)
 
----
+<br>
 
-## 📄 Licença
+> 🧭 Desenvolvido como parte do **Programa de Bolsas DevSecOps - Compass UOL**
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## ⭐ Agradecimentos
-
-- **Compass UOL** pelo programa de bolsas e oportunidade de aprendizado
-- Comunidade **Cloud Native** pelas ferramentas open-source incríveis
+</div>
 
 ---
 
 <div align="center">
 
-**Se este projeto foi útil para você, considere dar uma ⭐!**
+## 📄 Licença
 
-Feito com ❤️ e ☕ por [Thiago Cardoso Davi](https://github.com/Thiago-code-lab)
+Este projeto está sob a licença **MIT**.  
+Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Agradecimentos
+
+**Compass UOL** pelo programa de bolsas e oportunidade de aprendizado  
+Comunidade **Cloud Native** pelas ferramentas open-source incríveis
+
+</div>
+
+---
+
+<div align="center">
+
+### **Se este projeto foi útil para você, considere dar uma ⭐!**
+
+<br>
+
+Feito com ❤️ e ☕ por [**Thiago Cardoso Davi**](https://github.com/Thiago-code-lab)
+
+<br>
+
+```ascii
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║  "Automatizando o futuro, um commit por vez"     ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
+```
 
 </div>
