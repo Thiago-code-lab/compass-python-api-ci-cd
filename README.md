@@ -594,19 +594,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 <div align="center">
 
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**.  
-Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-
-</div>
-
----
-
-<div align="center">
-
 ## ⭐ Agradecimentos
 
 **Compass UOL** pelo programa de bolsas e oportunidade de aprendizado  
